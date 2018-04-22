@@ -1,0 +1,3 @@
+2017-11-22 10:53:56,706 [wsz][Thread:50][INFO] JinRi.LogCenter.LogMessageDAL - 批量成功往dbo.tbl_Interface_HandleLog_201711-HandleLog_fd3f41d09a1640fda62d5b705046d28e表插入1条数据
+2017-11-22 10:53:56,755 [wsz][Thread:75][INFO] JinRi.LogCenter.LogMessageDAL - 批量成功往dbo.tbl_Interface_ProcessLog_201711-ProcessLog_aea9fbbc52594b42803d76a40ef3cc28表插入2条数据
+2017-11-22 10:54:26,071 [wsz][Thread:132][INFO] JinRi.LogCenter.LogMessageDAL - 批量成功往dbo.tbl_Interface_ProcessLog_201711-ProcessLog_0dc7b0b393e3451d9f1a706502ce039c表插入1条数据

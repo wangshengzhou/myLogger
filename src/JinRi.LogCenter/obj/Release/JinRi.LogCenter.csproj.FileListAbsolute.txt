@@ -1,0 +1,16 @@
+F:\wsz\Project\JinRi.LogCenter\src\JinRi.LogCenter\bin\Release\Config\Database.config
+F:\wsz\Project\JinRi.LogCenter\src\JinRi.LogCenter\bin\Release\Config\log4net.config
+F:\wsz\Project\JinRi.LogCenter\src\JinRi.LogCenter\bin\Release\Config\LogCenter.config
+F:\wsz\Project\JinRi.LogCenter\src\JinRi.LogCenter\bin\Release\JinRi.LogCenter.dll
+F:\wsz\Project\JinRi.LogCenter\src\JinRi.LogCenter\bin\Release\JinRi.LogCenter.pdb
+F:\wsz\Project\JinRi.LogCenter\src\JinRi.LogCenter\bin\Release\EasyNetQ.dll
+F:\wsz\Project\JinRi.LogCenter\src\JinRi.LogCenter\bin\Release\log4net.dll
+F:\wsz\Project\JinRi.LogCenter\src\JinRi.LogCenter\bin\Release\Newtonsoft.Json.dll
+F:\wsz\Project\JinRi.LogCenter\src\JinRi.LogCenter\bin\Release\RabbitMQ.Client.dll
+F:\wsz\Project\JinRi.LogCenter\src\JinRi.LogCenter\bin\Release\EasyNetQ.pdb
+F:\wsz\Project\JinRi.LogCenter\src\JinRi.LogCenter\bin\Release\log4net.xml
+F:\wsz\Project\JinRi.LogCenter\src\JinRi.LogCenter\bin\Release\Newtonsoft.Json.xml
+F:\wsz\Project\JinRi.LogCenter\src\JinRi.LogCenter\bin\Release\RabbitMQ.Client.xml
+F:\wsz\Project\JinRi.LogCenter\src\JinRi.LogCenter\obj\Release\JinRi.LogCenter.csprojResolveAssemblyReference.cache
+F:\wsz\Project\JinRi.LogCenter\src\JinRi.LogCenter\obj\Release\JinRi.LogCenter.dll
+F:\wsz\Project\JinRi.LogCenter\src\JinRi.LogCenter\obj\Release\JinRi.LogCenter.pdb

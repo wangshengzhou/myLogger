@@ -1,0 +1,12 @@
+F:\wsz\Project\JinRi.LogCenter\API\log4net-2.0.8\build\bin\net\4.5\debug\log4net.dll
+F:\wsz\Project\JinRi.LogCenter\API\log4net-2.0.8\build\bin\net\4.5\debug\log4net.pdb
+F:\wsz\Project\JinRi.LogCenter\API\log4net-2.0.8\build\bin\net\4.5\debug\log4net.xml
+F:\wsz\Project\JinRi.LogCenter\API\log4net-2.0.8\src\obj\Debug\log4net.dll
+F:\wsz\Project\JinRi.LogCenter\API\log4net-2.0.8\src\obj\Debug\log4net.pdb
+F:\wsz\Project\JinRi.LogCenter\API\log4net-2.0.8\src\obj\Debug\log4net.vs2012.csprojResolveAssemblyReference.cache
+J:\JinRi\新建文件夹\API\log4net-2.0.8\build\bin\net\4.5\debug\log4net.dll
+J:\JinRi\新建文件夹\API\log4net-2.0.8\build\bin\net\4.5\debug\log4net.pdb
+J:\JinRi\新建文件夹\API\log4net-2.0.8\build\bin\net\4.5\debug\log4net.xml
+J:\JinRi\新建文件夹\API\log4net-2.0.8\src\obj\Debug\log4net.vs2012.csprojResolveAssemblyReference.cache
+J:\JinRi\新建文件夹\API\log4net-2.0.8\src\obj\Debug\log4net.dll
+J:\JinRi\新建文件夹\API\log4net-2.0.8\src\obj\Debug\log4net.pdb

@@ -1,0 +1,68 @@
+2017-11-18 01:02:10,729 [wsz][Thread:AMQP Connection amqp://120.26.126.127:5672][INFO] JinRi.LogCenter.EasyNetQLogger - Disconnected from RabbitMQ Broker
+2017-11-18 01:02:10,982 [wsz][Thread:AMQP Connection amqp://120.26.126.127:5672][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter.QU', consumer tag='c990016b-1508-44ca-8a23-c0795cbc3a86' prefetchcount=30 priority=0 x-cancel-on-ha-failover=False
+2017-11-18 01:02:11,020 [wsz][Thread:AMQP Connection amqp://120.26.126.127:5672][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter2.QU', consumer tag='df651f8d-95be-4ed4-a0ea-effd85d6e26b' prefetchcount=30 priority=0 x-cancel-on-ha-failover=False
+2017-11-18 01:02:11,057 [wsz][Thread:AMQP Connection amqp://120.26.126.127:5672][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter3.QU', consumer tag='41f34f45-63c8-47f4-aca4-92afb185de0a' prefetchcount=30 priority=0 x-cancel-on-ha-failover=False
+2017-11-18 01:02:11,095 [wsz][Thread:AMQP Connection amqp://120.26.126.127:5672][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter4.QU', consumer tag='7e40b37c-7874-41f8-bca2-b8d1a2bb5a4a' prefetchcount=30 priority=0 x-cancel-on-ha-failover=False
+2017-11-18 01:02:11,132 [wsz][Thread:AMQP Connection amqp://120.26.126.127:5672][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter5.QU', consumer tag='286f1cf0-01da-46e7-87b2-97e6e5fa2fba' prefetchcount=30 priority=0 x-cancel-on-ha-failover=False
+2017-11-18 01:02:11,170 [wsz][Thread:AMQP Connection amqp://120.26.126.127:5672][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter6.QU', consumer tag='2e2153c1-6ecd-40a7-9fca-3c5385c06bd8' prefetchcount=30 priority=0 x-cancel-on-ha-failover=False
+2017-11-18 01:02:11,172 [wsz][Thread:AMQP Connection amqp://120.26.126.127:5672][INFO] JinRi.LogCenter.EasyNetQLogger - Connected to RabbitMQ. Broker: '120.26.126.127', Port: 5672, VHost: '/'
+2017-11-18 01:02:11,198 [wsz][Thread:AMQP Connection amqp://120.26.126.127:5672][INFO] JinRi.LogCenter.EasyNetQLogger - Consumer '32056da4-dd3b-4dc0-a98f-9fbb46cbd13b', consuming from queue 'JinRi.LogCenter.QU', has shutdown. Reason: 'System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 RabbitMQ.Client.Impl.Frame.ReadFrom(NetworkBinaryReader reader)
+   在 RabbitMQ.Client.Impl.SocketFrameHandler.ReadFrame()
+   在 RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   在 RabbitMQ.Client.Framing.Impl.Connection.MainLoop()'
+2017-11-18 01:02:11,209 [wsz][Thread:AMQP Connection amqp://120.26.126.127:5672][INFO] JinRi.LogCenter.EasyNetQLogger - Consumer '32056da4-dd3b-4dc0-a98f-9fbb46cbd13b', consuming from queue 'JinRi.LogCenter.QU', has shutdown. Reason: 'System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 RabbitMQ.Client.Impl.Frame.ReadFrom(NetworkBinaryReader reader)
+   在 RabbitMQ.Client.Impl.SocketFrameHandler.ReadFrame()
+   在 RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   在 RabbitMQ.Client.Framing.Impl.Connection.MainLoop()'
+2017-11-18 01:02:11,211 [wsz][Thread:AMQP Connection amqp://120.26.126.127:5672][INFO] JinRi.LogCenter.EasyNetQLogger - Consumer 'ee8b3c86-4599-4c61-9966-365ff449dafc', consuming from queue 'JinRi.LogCenter2.QU', has shutdown. Reason: 'System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 RabbitMQ.Client.Impl.Frame.ReadFrom(NetworkBinaryReader reader)
+   在 RabbitMQ.Client.Impl.SocketFrameHandler.ReadFrame()
+   在 RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   在 RabbitMQ.Client.Framing.Impl.Connection.MainLoop()'
+2017-11-18 01:02:11,213 [wsz][Thread:AMQP Connection amqp://120.26.126.127:5672][INFO] JinRi.LogCenter.EasyNetQLogger - Consumer 'ee8b3c86-4599-4c61-9966-365ff449dafc', consuming from queue 'JinRi.LogCenter2.QU', has shutdown. Reason: 'System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 RabbitMQ.Client.Impl.Frame.ReadFrom(NetworkBinaryReader reader)
+   在 RabbitMQ.Client.Impl.SocketFrameHandler.ReadFrame()
+   在 RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   在 RabbitMQ.Client.Framing.Impl.Connection.MainLoop()'
+2017-11-18 01:02:11,214 [wsz][Thread:AMQP Connection amqp://120.26.126.127:5672][INFO] JinRi.LogCenter.EasyNetQLogger - Consumer 'f3e99125-c511-445f-8b96-48ab4d8092a6', consuming from queue 'JinRi.LogCenter3.QU', has shutdown. Reason: 'System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 RabbitMQ.Client.Impl.Frame.ReadFrom(NetworkBinaryReader reader)
+   在 RabbitMQ.Client.Impl.SocketFrameHandler.ReadFrame()
+   在 RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   在 RabbitMQ.Client.Framing.Impl.Connection.MainLoop()'
+2017-11-18 01:02:11,215 [wsz][Thread:AMQP Connection amqp://120.26.126.127:5672][INFO] JinRi.LogCenter.EasyNetQLogger - Consumer 'f3e99125-c511-445f-8b96-48ab4d8092a6', consuming from queue 'JinRi.LogCenter3.QU', has shutdown. Reason: 'System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 RabbitMQ.Client.Impl.Frame.ReadFrom(NetworkBinaryReader reader)
+   在 RabbitMQ.Client.Impl.SocketFrameHandler.ReadFrame()
+   在 RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   在 RabbitMQ.Client.Framing.Impl.Connection.MainLoop()'
+2017-11-18 01:02:11,216 [wsz][Thread:AMQP Connection amqp://120.26.126.127:5672][INFO] JinRi.LogCenter.EasyNetQLogger - Consumer 'b1eb7d76-c6c4-4ba8-a27a-6721259dd049', consuming from queue 'JinRi.LogCenter4.QU', has shutdown. Reason: 'System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 RabbitMQ.Client.Impl.Frame.ReadFrom(NetworkBinaryReader reader)
+   在 RabbitMQ.Client.Impl.SocketFrameHandler.ReadFrame()
+   在 RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   在 RabbitMQ.Client.Framing.Impl.Connection.MainLoop()'
+2017-11-18 01:02:11,218 [wsz][Thread:AMQP Connection amqp://120.26.126.127:5672][INFO] JinRi.LogCenter.EasyNetQLogger - Consumer 'b1eb7d76-c6c4-4ba8-a27a-6721259dd049', consuming from queue 'JinRi.LogCenter4.QU', has shutdown. Reason: 'System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 RabbitMQ.Client.Impl.Frame.ReadFrom(NetworkBinaryReader reader)
+   在 RabbitMQ.Client.Impl.SocketFrameHandler.ReadFrame()
+   在 RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   在 RabbitMQ.Client.Framing.Impl.Connection.MainLoop()'
+2017-11-18 01:02:11,219 [wsz][Thread:AMQP Connection amqp://120.26.126.127:5672][INFO] JinRi.LogCenter.EasyNetQLogger - Consumer '57d3f63c-2bdb-48b7-854f-51a708f5b23c', consuming from queue 'JinRi.LogCenter5.QU', has shutdown. Reason: 'System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 RabbitMQ.Client.Impl.Frame.ReadFrom(NetworkBinaryReader reader)
+   在 RabbitMQ.Client.Impl.SocketFrameHandler.ReadFrame()
+   在 RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   在 RabbitMQ.Client.Framing.Impl.Connection.MainLoop()'
+2017-11-18 01:02:11,220 [wsz][Thread:AMQP Connection amqp://120.26.126.127:5672][INFO] JinRi.LogCenter.EasyNetQLogger - Consumer '57d3f63c-2bdb-48b7-854f-51a708f5b23c', consuming from queue 'JinRi.LogCenter5.QU', has shutdown. Reason: 'System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 RabbitMQ.Client.Impl.Frame.ReadFrom(NetworkBinaryReader reader)
+   在 RabbitMQ.Client.Impl.SocketFrameHandler.ReadFrame()
+   在 RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   在 RabbitMQ.Client.Framing.Impl.Connection.MainLoop()'
+2017-11-18 01:02:11,221 [wsz][Thread:AMQP Connection amqp://120.26.126.127:5672][INFO] JinRi.LogCenter.EasyNetQLogger - Consumer '25249882-672d-4496-b2b6-3f576c61ab01', consuming from queue 'JinRi.LogCenter6.QU', has shutdown. Reason: 'System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 RabbitMQ.Client.Impl.Frame.ReadFrom(NetworkBinaryReader reader)
+   在 RabbitMQ.Client.Impl.SocketFrameHandler.ReadFrame()
+   在 RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   在 RabbitMQ.Client.Framing.Impl.Connection.MainLoop()'
+2017-11-18 01:02:11,222 [wsz][Thread:AMQP Connection amqp://120.26.126.127:5672][INFO] JinRi.LogCenter.EasyNetQLogger - Consumer '25249882-672d-4496-b2b6-3f576c61ab01', consuming from queue 'JinRi.LogCenter6.QU', has shutdown. Reason: 'System.Net.Sockets.SocketException (0x80004005): 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+   在 RabbitMQ.Client.Impl.Frame.ReadFrom(NetworkBinaryReader reader)
+   在 RabbitMQ.Client.Impl.SocketFrameHandler.ReadFrame()
+   在 RabbitMQ.Client.Framing.Impl.Connection.MainLoopIteration()
+   在 RabbitMQ.Client.Framing.Impl.Connection.MainLoop()'

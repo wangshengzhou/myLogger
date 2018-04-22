@@ -1,0 +1,9 @@
+2017-11-29 16:02:21,672 [wsz][Thread:29][INFO] JinRi.LogCenter.LogMessageDAL - 批量成功往dbo.tbl_Interface_HandleLog_201711-HandleLog_4007757f5e764f199fbbe997f3ab4834表插入2条数据
+2017-11-29 16:02:36,077 [wsz][Thread:29][INFO] JinRi.LogCenter.LogMessageDAL - 批量成功往dbo.tbl_Interface_HandleLog_201711-HandleLog_11ae6f7aca9e43e798e7d26ba2297c73表插入2条数据
+2017-11-29 16:04:52,090 [wsz][Thread:87][INFO] JinRi.LogCenter.LogMessageDAL - 批量成功往dbo.tbl_Interface_HandleLog_201711-HandleLog_b71e64e427f54dd88d6cd7d97f4cf30f表插入2条数据
+2017-11-29 16:04:56,808 [wsz][Thread:87][INFO] JinRi.LogCenter.LogMessageDAL - 批量成功往dbo.tbl_Interface_HandleLog_201711-HandleLog_3379b363e11146a2b09a533e275a0c68表插入2条数据
+2017-11-29 16:05:22,949 [wsz][Thread:5][INFO] JinRi.LogCenter.LogMessageDAL - 批量成功往dbo.tbl_Interface_HandleLog_201711-HandleLog_ed5c7fea8cb541cbac2e590545b7d18e表插入2条数据
+2017-11-29 16:07:11,299 [wsz][Thread:100][INFO] JinRi.LogCenter.LogMessageDAL - 批量成功往dbo.tbl_Interface_HandleLog_201711-HandleLog_775d3677dfc24542a4bc0e0221214dfc表插入1条数据
+2017-11-29 16:07:18,898 [wsz][Thread:100][INFO] JinRi.LogCenter.LogMessageDAL - 批量成功往dbo.tbl_Interface_HandleLog_201711-HandleLog_854dc8b9d9c948e7aaca53d9c93c261a表插入1条数据
+2017-11-29 16:07:47,976 [wsz][Thread:115][INFO] JinRi.LogCenter.LogMessageDAL - 批量成功往dbo.tbl_Interface_HandleLog_201711-HandleLog_1cb5e011dd2443be8807b21799899ce7表插入1条数据
+2017-11-29 16:07:57,061 [wsz][Thread:29][INFO] JinRi.LogCenter.LogMessageDAL - 批量成功往dbo.tbl_Interface_HandleLog_201711-HandleLog_5156c35b2999469bb3c8f29cbc885547表插入1条数据

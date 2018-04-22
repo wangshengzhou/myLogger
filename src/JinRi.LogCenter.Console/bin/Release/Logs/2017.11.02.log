@@ -1,0 +1,31 @@
+2017-11-02 15:42:09,814 [wsz][Thread:1][INFO] JinRi.LogCenter.AppSetting - 初始化配置文件成功
+2017-11-02 15:42:09,848 [wsz][Thread:5][INFO] JinRi.LogCenter.Console.LoggerDataServeice - 服务正在启动……
+2017-11-02 15:42:09,863 [wsz][Thread:5][INFO] JinRi.LogCenter.DBLog - 初始化DataBufferPool成功
+2017-11-02 15:42:10,701 [wsz][Thread:5][INFO] JinRi.LogCenter.EasyNetQLogger - Connected to RabbitMQ. Broker: '120.26.126.127', Port: 5672, VHost: '/'
+2017-11-02 15:42:10,701 [wsz][Thread:5][INFO] JinRi.LogCenter.EasyNetQHelper - 初始化IBus成功： connectionString=host=120.26.126.127:5672;username=admin;password=123456;prefetchcount=30
+2017-11-02 15:42:11,637 [wsz][Thread:5][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter.QU', consumer tag='3c5c1326-d8c7-4659-a405-43868a6d637f' prefetchcount=30 priority=0 x-cancel-on-ha-failover=False
+2017-11-02 15:42:11,674 [wsz][Thread:5][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter2.QU', consumer tag='141efda9-c0e5-4688-8e51-f518467fe65e' prefetchcount=30 priority=0 x-cancel-on-ha-failover=False
+2017-11-02 15:42:11,706 [wsz][Thread:5][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter3.QU', consumer tag='8ced77eb-411b-44d9-a75b-54e3c03671e6' prefetchcount=30 priority=0 x-cancel-on-ha-failover=False
+2017-11-02 15:42:11,737 [wsz][Thread:5][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter4.QU', consumer tag='6f5b6142-86bc-4115-8d42-e3fa8228258a' prefetchcount=30 priority=0 x-cancel-on-ha-failover=False
+2017-11-02 15:42:11,770 [wsz][Thread:5][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter5.QU', consumer tag='66ee5565-15b8-441c-a04c-97737f4ca32c' prefetchcount=30 priority=0 x-cancel-on-ha-failover=False
+2017-11-02 15:42:11,801 [wsz][Thread:5][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter6.QU', consumer tag='def0c7a4-70ee-4731-8c9a-04354172597a' prefetchcount=30 priority=0 x-cancel-on-ha-failover=False
+2017-11-02 15:42:11,801 [wsz][Thread:5][INFO] JinRi.LogCenter.Console.LoggerDataServeice - 服务启动完成！
+2017-11-02 15:42:13,286 [wsz][Thread:14][INFO] JinRi.LogCenter.LogMessageDAL - 批量成功往dbo.tbl_Interface_HandleLog_201711-HandleLog_819a4598780c4da799c0c1268975f5c0表插入1条数据
+2017-11-02 15:42:13,349 [wsz][Thread:5][ERROR] JinRi.LogCenter.ConnectionHelper - GetConnectionString出现异常：System.ArgumentException: 已添加了具有相同键的项。
+   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 JinRi.LogCenter.ConnectionHelper.GetConnectionString(String keyName, String decodeKey) 位置 f:\wsz\Project\JinRi.LogCenter\src\JinRi.LogCenter\DataBase\DatabaseHelper.cs:行号 33
+2017-11-02 15:42:13,364 [wsz][Thread:5][ERROR] JinRi.LogCenter.LogMessageDAL - System.InvalidOperationException: ConnectionString 属性尚未初始化。
+   在 System.Data.SqlClient.SqlConnection.PermissionDemand()
+   在 System.Data.SqlClient.SqlConnectionFactory.PermissionDemand(DbConnection outerConnection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.SqlClient.SqlBulkCopy.CreateOrValidateConnection(String method)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServerAsync(Int32 columnCount, CancellationToken ctoken)
+   在 System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   在 JinRi.LogCenter.LogMessageDAL.InsertInternal(DataTable table, Boolean isHandle) 位置 f:\wsz\Project\JinRi.LogCenter\src\JinRi.LogCenter\DAL\LogMessageDAL.cs:行号 105
+2017-11-02 15:42:13,380 [wsz][Thread:5][INFO] JinRi.LogCenter.LogMessageDAL - 批量成功往dbo.tbl_Interface_HandleLog_201711-HandleLog_5c553f1bde9a4cdd8a3ad2fec6cb7f00表插入1条数据
+2017-11-02 15:42:13,428 [wsz][Thread:5][INFO] JinRi.LogCenter.LogMessageDAL - 批量成功往dbo.tbl_Interface_ProcessLog_201711-ProcessLog_a8f2b674b01346f7ada9e953e884e874表插入1条数据
+2017-11-02 15:44:14,764 [wsz][Thread:14][INFO] JinRi.LogCenter.LogMessageDAL - 批量成功往dbo.tbl_Interface_ProcessLog_201711-ProcessLog_831d7d52f7ea41c78e5dcd2293cc7b79表插入1条数据

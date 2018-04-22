@@ -1,0 +1,94 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{C571AB68-5843-4315-A5CA-847FC2387E09}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{23D59ED3-A908-468D-84CB-BA1D148969F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JinRi.LogCenter", "src\JinRi.LogCenter\JinRi.LogCenter.csproj", "{11096EDF-F163-41E7-9C58-14F8C5F2DF8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyNetQ", "API\EasyNetQ\EasyNetQ.csproj", "{B8DEF709-5168-48F1-B8D3-AD44E4A4A22B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReferenceDll", "ReferenceDll", "{EDB3379A-48F2-471D-96A7-FAD53C8DFEC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "log4net.vs2012", "API\log4net-2.0.8\src\log4net.vs2012.csproj", "{181FE707-E161-4722-9F38-6AAAB6FAA106}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{393F2F27-D23D-4134-84A1-94CAB7D3CD04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JinRi.LogCenter.Test", "Test\JinRi.LogCenter.Test\JinRi.LogCenter.Test.csproj", "{7B966B89-6CB3-485D-87DE-72DF8F8C1712}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JinRi.LogCenter.Console", "src\JinRi.LogCenter.Console\JinRi.LogCenter.Console.csproj", "{D16B16E3-E6C2-4CF6-B851-4208D490CAE6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "doc", "doc", "{AFD3D589-2D5D-4C7E-9B34-1D197DD113F7}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\wangshengzhou\Desktop\create.sql = C:\Users\wangshengzhou\Desktop\create.sql
+		readme.txt = readme.txt
+		doc\业务日志设计.vsdx = doc\业务日志设计.vsdx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11096EDF-F163-41E7-9C58-14F8C5F2DF8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11096EDF-F163-41E7-9C58-14F8C5F2DF8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11096EDF-F163-41E7-9C58-14F8C5F2DF8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11096EDF-F163-41E7-9C58-14F8C5F2DF8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8DEF709-5168-48F1-B8D3-AD44E4A4A22B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8DEF709-5168-48F1-B8D3-AD44E4A4A22B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8DEF709-5168-48F1-B8D3-AD44E4A4A22B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8DEF709-5168-48F1-B8D3-AD44E4A4A22B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{181FE707-E161-4722-9F38-6AAAB6FAA106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{181FE707-E161-4722-9F38-6AAAB6FAA106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{181FE707-E161-4722-9F38-6AAAB6FAA106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{181FE707-E161-4722-9F38-6AAAB6FAA106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B966B89-6CB3-485D-87DE-72DF8F8C1712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B966B89-6CB3-485D-87DE-72DF8F8C1712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B966B89-6CB3-485D-87DE-72DF8F8C1712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B966B89-6CB3-485D-87DE-72DF8F8C1712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D16B16E3-E6C2-4CF6-B851-4208D490CAE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D16B16E3-E6C2-4CF6-B851-4208D490CAE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D16B16E3-E6C2-4CF6-B851-4208D490CAE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D16B16E3-E6C2-4CF6-B851-4208D490CAE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{11096EDF-F163-41E7-9C58-14F8C5F2DF8F} = {23D59ED3-A908-468D-84CB-BA1D148969F6}
+		{B8DEF709-5168-48F1-B8D3-AD44E4A4A22B} = {C571AB68-5843-4315-A5CA-847FC2387E09}
+		{181FE707-E161-4722-9F38-6AAAB6FAA106} = {C571AB68-5843-4315-A5CA-847FC2387E09}
+		{7B966B89-6CB3-485D-87DE-72DF8F8C1712} = {393F2F27-D23D-4134-84A1-94CAB7D3CD04}
+		{D16B16E3-E6C2-4CF6-B851-4208D490CAE6} = {23D59ED3-A908-468D-84CB-BA1D148969F6}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://192.168.2.36:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = API\\EasyNetQ\\EasyNetQ.csproj
+		SccProjectTopLevelParentUniqueName1 = JinRi.LogCenter.sln
+		SccProjectName1 = API/EasyNetQ
+		SccLocalPath1 = API\\EasyNetQ
+		SccProjectUniqueName2 = API\\log4net-2.0.8\\src\\log4net.vs2012.csproj
+		SccProjectTopLevelParentUniqueName2 = JinRi.LogCenter.sln
+		SccProjectName2 = API/log4net-2.0.8/src
+		SccLocalPath2 = API\\log4net-2.0.8\\src
+		SccProjectUniqueName3 = src\\JinRi.LogCenter\\JinRi.LogCenter.csproj
+		SccProjectTopLevelParentUniqueName3 = JinRi.LogCenter.sln
+		SccProjectName3 = src/JinRi.LogCenter
+		SccLocalPath3 = src\\JinRi.LogCenter
+		SccProjectUniqueName4 = Test\\JinRi.LogCenter.Test\\JinRi.LogCenter.Test.csproj
+		SccProjectTopLevelParentUniqueName4 = JinRi.LogCenter.sln
+		SccProjectName4 = Test/JinRi.LogCenter.Test
+		SccLocalPath4 = Test\\JinRi.LogCenter.Test
+		SccProjectUniqueName5 = src\\JinRi.LogCenter.Console\\JinRi.LogCenter.Console.csproj
+		SccProjectTopLevelParentUniqueName5 = JinRi.LogCenter.sln
+		SccProjectName5 = src/JinRi.LogCenter.Console
+		SccLocalPath5 = src\\JinRi.LogCenter.Console
+	EndGlobalSection
+EndGlobal

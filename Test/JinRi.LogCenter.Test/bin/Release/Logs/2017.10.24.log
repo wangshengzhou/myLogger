@@ -1,0 +1,137 @@
+2017-10-24 11:49:07,256 [wsz][Thread:8][INFO] JinRi.LogCenter.AppSetting - 初始化配置文件成功
+2017-10-24 11:49:07,285 [wsz][Thread:8][INFO] JinRi.LogCenter.DBLog - 初始化DataBufferPool成功
+2017-10-24 11:49:07,702 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Connected to RabbitMQ. Broker: '120.26.126.127', Port: 5672, VHost: '/'
+2017-10-24 11:49:07,707 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQHelper - 初始化IBus成功： connectionString=host=120.26.126.127:5672;username=admin;password=123456;prefetchcount=1
+2017-10-24 11:49:09,384 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter.QU', consumer tag='0c59c5c5-7a04-4fe6-8cab-053c6308cba7' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 11:49:09,423 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter2.QU', consumer tag='5aab8c09-2a87-4525-bf08-3b09fca0707f' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 11:49:09,458 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter3.QU', consumer tag='ba0bf347-3936-4c40-9a87-fa4feef10fad' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 11:49:09,493 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter4.QU', consumer tag='634b352a-ee6a-496c-a717-b4ba18acd219' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 11:49:09,529 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter5.QU', consumer tag='7f1533c5-6265-46e7-9024-bbb0727e2a67' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 11:49:09,565 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter6.QU', consumer tag='df57faf7-08f3-43b7-aafb-b113105e087d' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 11:50:00,514 [wsz][Thread:9][INFO] JinRi.LogCenter.AppSetting - 初始化配置文件成功
+2017-10-24 11:50:00,543 [wsz][Thread:9][INFO] JinRi.LogCenter.DBLog - 初始化DataBufferPool成功
+2017-10-24 11:50:00,885 [wsz][Thread:9][INFO] JinRi.LogCenter.EasyNetQLogger - Connected to RabbitMQ. Broker: '120.26.126.127', Port: 5672, VHost: '/'
+2017-10-24 11:50:00,890 [wsz][Thread:9][INFO] JinRi.LogCenter.EasyNetQHelper - 初始化IBus成功： connectionString=host=120.26.126.127:5672;username=admin;password=123456;prefetchcount=1
+2017-10-24 11:50:01,852 [wsz][Thread:9][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter.QU', consumer tag='6b0d6225-02eb-4207-a187-d8bae96feeff' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 11:50:01,886 [wsz][Thread:9][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter2.QU', consumer tag='99e5ac28-e4c5-4538-bc41-6b4ce6e17681' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 11:50:01,920 [wsz][Thread:9][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter3.QU', consumer tag='3f78e281-b668-4922-8b56-9a3add0292dc' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 11:50:01,954 [wsz][Thread:9][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter4.QU', consumer tag='ced74ea3-4a32-4ea6-9405-cd2947366e28' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 11:50:01,988 [wsz][Thread:9][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter5.QU', consumer tag='904c5bb2-4485-470b-ab69-261e16049d3a' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 11:50:02,021 [wsz][Thread:9][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter6.QU', consumer tag='44841b22-ecc9-4108-8131-42d64e929ec8' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 11:51:06,799 [wsz][Thread:8][INFO] JinRi.LogCenter.AppSetting - 初始化配置文件成功
+2017-10-24 11:51:06,826 [wsz][Thread:8][INFO] JinRi.LogCenter.DBLog - 初始化DataBufferPool成功
+2017-10-24 11:51:07,155 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Connected to RabbitMQ. Broker: '120.26.126.127', Port: 5672, VHost: '/'
+2017-10-24 11:51:07,161 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQHelper - 初始化IBus成功： connectionString=host=120.26.126.127:5672;username=admin;password=123456;prefetchcount=1
+2017-10-24 11:51:08,452 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter.QU', consumer tag='aed5d9cf-dd22-4894-aede-396d9533cf75' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 11:51:08,483 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter2.QU', consumer tag='39b07ecf-366b-4ce6-8614-b380894166bc' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 11:51:08,511 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter3.QU', consumer tag='3d1d21db-bf30-42b8-a333-f1a9787c9216' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 11:51:08,539 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter4.QU', consumer tag='898c7c68-05a8-421c-b9c8-203d8aa6bf96' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 11:51:08,568 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter5.QU', consumer tag='8455d83b-3a9f-464d-8d46-d20ae2451fbe' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 11:51:08,597 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter6.QU', consumer tag='b59881b1-25c9-476a-bcc9-37bf9b649c85' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:10:59,492 [wsz][Thread:9][INFO] JinRi.LogCenter.AppSetting - 初始化配置文件成功
+2017-10-24 15:10:59,534 [wsz][Thread:9][INFO] JinRi.LogCenter.DBLog - 初始化DataBufferPool成功
+2017-10-24 15:11:00,002 [wsz][Thread:9][INFO] JinRi.LogCenter.EasyNetQLogger - Connected to RabbitMQ. Broker: '120.26.126.127', Port: 5672, VHost: '/'
+2017-10-24 15:11:00,008 [wsz][Thread:9][INFO] JinRi.LogCenter.EasyNetQHelper - 初始化IBus成功： connectionString=host=120.26.126.127:5672;username=admin;password=123456;prefetchcount=1
+2017-10-24 15:11:02,465 [wsz][Thread:9][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter.QU', consumer tag='82d4ad2e-8319-40a8-92ac-c29e43a65e16' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:11:02,496 [wsz][Thread:9][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter2.QU', consumer tag='b4491e87-5a47-4c47-b113-a08d47506894' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:11:02,528 [wsz][Thread:9][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter3.QU', consumer tag='7edd2801-52a4-4ecd-b996-f2c64f8bc57d' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:11:02,557 [wsz][Thread:9][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter4.QU', consumer tag='bc2d5fc5-392f-4196-851a-cda1c64a3607' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:11:02,586 [wsz][Thread:9][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter5.QU', consumer tag='6f382ed3-0f21-46b9-a0c3-2fdb48327cef' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:11:02,616 [wsz][Thread:9][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter6.QU', consumer tag='63e136bb-de75-4cfc-a200-1b52cd4e3729' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:12:28,923 [wsz][Thread:8][INFO] JinRi.LogCenter.AppSetting - 初始化配置文件成功
+2017-10-24 15:12:28,955 [wsz][Thread:8][INFO] JinRi.LogCenter.DBLog - 初始化DataBufferPool成功
+2017-10-24 15:12:29,283 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Connected to RabbitMQ. Broker: '120.26.126.127', Port: 5672, VHost: '/'
+2017-10-24 15:12:29,288 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQHelper - 初始化IBus成功： connectionString=host=120.26.126.127:5672;username=admin;password=123456;prefetchcount=1
+2017-10-24 15:12:31,010 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter.QU', consumer tag='d1117a8f-2992-4a7c-9748-5ac07a793ea5' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:12:31,042 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter2.QU', consumer tag='374f6a6e-8c30-4f3d-985c-cff784133490' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:12:31,073 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter3.QU', consumer tag='461fa711-a3bc-4f02-a5e3-5de8bc9102c5' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:12:31,104 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter4.QU', consumer tag='917be7b1-0dea-40e6-baeb-c5ef986af599' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:12:31,177 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter5.QU', consumer tag='da7cd360-d74b-4bb2-9c77-4d52e86f7c77' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:12:31,209 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter6.QU', consumer tag='cc233baf-5f1d-4338-b33a-9d21d036c948' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:24:17,653 [wsz][Thread:9][INFO] JinRi.LogCenter.AppSetting - 初始化配置文件成功
+2017-10-24 15:24:17,679 [wsz][Thread:9][INFO] JinRi.LogCenter.DBLog - 初始化DataBufferPool成功
+2017-10-24 15:24:18,007 [wsz][Thread:9][INFO] JinRi.LogCenter.EasyNetQLogger - Connected to RabbitMQ. Broker: '120.26.126.127', Port: 5672, VHost: '/'
+2017-10-24 15:24:18,013 [wsz][Thread:9][INFO] JinRi.LogCenter.EasyNetQHelper - 初始化IBus成功： connectionString=host=120.26.126.127:5672;username=admin;password=123456;prefetchcount=1
+2017-10-24 15:24:18,938 [wsz][Thread:9][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter.QU', consumer tag='5b9aa6d9-ed3e-4700-80f7-7ac02784eb31' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:24:18,970 [wsz][Thread:9][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter2.QU', consumer tag='ae16d57d-5e23-4a64-a07f-768a13a7951b' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:24:18,997 [wsz][Thread:9][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter3.QU', consumer tag='3ed68527-b7f5-4977-819f-8290150ce639' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:24:19,025 [wsz][Thread:9][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter4.QU', consumer tag='6c5e1f55-107c-4de9-b37d-01bfa6523160' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:24:19,053 [wsz][Thread:9][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter5.QU', consumer tag='08573e6d-22ba-4b92-9d97-e322ee3256c0' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:24:19,081 [wsz][Thread:9][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter6.QU', consumer tag='aee714fc-a5d5-4ee7-bc60-073eacfff57e' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:24:21,812 [wsz][Thread:25][INFO] JinRi.LogCenter.LogMessageDAL - 批量成功往dbo.tbl_Interface_HandleLog_201710-HandleLog_1c854648082d49808da5927b39863ac4表插入190条数据
+2017-10-24 15:34:42,850 [wsz][Thread:8][INFO] JinRi.LogCenter.AppSetting - 初始化配置文件成功
+2017-10-24 15:34:42,875 [wsz][Thread:8][INFO] JinRi.LogCenter.DBLog - 初始化DataBufferPool成功
+2017-10-24 15:34:43,212 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Connected to RabbitMQ. Broker: '120.26.126.127', Port: 5672, VHost: '/'
+2017-10-24 15:34:43,218 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQHelper - 初始化IBus成功： connectionString=host=120.26.126.127:5672;username=admin;password=123456;prefetchcount=1
+2017-10-24 15:34:44,659 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter.QU', consumer tag='7b4ec80b-c5f0-499d-8623-60d954705fc8' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:34:44,692 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter2.QU', consumer tag='70d2f5b8-91a9-45cb-aff6-cbcdb8355aea' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:34:44,720 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter3.QU', consumer tag='e26ff9ac-3e1b-497a-bbf3-5661eafe8306' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:34:44,789 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter4.QU', consumer tag='1fd36dea-86f9-4cea-a312-288f674f51df' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:34:44,818 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter5.QU', consumer tag='8b0a8626-a2e7-40a0-baa2-df7df36b217c' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:34:44,848 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter6.QU', consumer tag='6843a29f-3072-452b-9f93-a7c03c790717' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:34:45,100 [wsz][Thread:24][INFO] JinRi.LogCenter.LogMessageDAL - 批量成功往dbo.tbl_Interface_HandleLog_201710-HandleLog_4d281d5616944259bd9ef0ad396849db表插入300条数据
+2017-10-24 15:34:47,640 [wsz][Thread:27][INFO] JinRi.LogCenter.LogMessageDAL - 批量成功往dbo.tbl_Interface_HandleLog_201710-HandleLog_93df88537fe04484a6dbf6c89ddc0c06表插入80条数据
+2017-10-24 15:36:59,052 [wsz][Thread:8][INFO] JinRi.LogCenter.AppSetting - 初始化配置文件成功
+2017-10-24 15:36:59,082 [wsz][Thread:8][INFO] JinRi.LogCenter.DBLog - 初始化DataBufferPool成功
+2017-10-24 15:36:59,406 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Connected to RabbitMQ. Broker: '120.26.126.127', Port: 5672, VHost: '/'
+2017-10-24 15:36:59,411 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQHelper - 初始化IBus成功： connectionString=host=120.26.126.127:5672;username=admin;password=123456;prefetchcount=1
+2017-10-24 15:37:00,793 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter.QU', consumer tag='5914e413-13a2-4866-b780-f5f6f4637b79' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:37:00,821 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter2.QU', consumer tag='c75dbbb0-b2a3-4ae8-a35a-cf74439f302b' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:37:00,848 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter3.QU', consumer tag='942563e6-bb03-4813-9d8a-be2086c5fe1e' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:37:00,876 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter4.QU', consumer tag='034ed21b-807a-49cf-9cf8-21c94e956453' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:37:00,949 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter5.QU', consumer tag='9dc16570-37ca-4124-97d4-14a54d7af6b9' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:37:00,979 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter6.QU', consumer tag='9b247880-ffd5-48a5-a25f-ad5310bbc670' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:38:17,477 [wsz][Thread:9][INFO] JinRi.LogCenter.AppSetting - 初始化配置文件成功
+2017-10-24 15:38:17,504 [wsz][Thread:9][INFO] JinRi.LogCenter.DBLog - 初始化DataBufferPool成功
+2017-10-24 15:38:17,837 [wsz][Thread:9][INFO] JinRi.LogCenter.EasyNetQLogger - Connected to RabbitMQ. Broker: '120.26.126.127', Port: 5672, VHost: '/'
+2017-10-24 15:38:17,842 [wsz][Thread:9][INFO] JinRi.LogCenter.EasyNetQHelper - 初始化IBus成功： connectionString=host=120.26.126.127:5672;username=admin;password=123456;prefetchcount=1
+2017-10-24 15:38:18,713 [wsz][Thread:9][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter.QU', consumer tag='ef09b10e-b76a-4b62-8f26-d5efc3f9e202' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:38:18,747 [wsz][Thread:9][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter2.QU', consumer tag='7e286163-053d-4101-b1e9-9531c2cc17ed' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:38:18,780 [wsz][Thread:9][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter3.QU', consumer tag='a8c9652e-d66b-4186-a937-f1016362023f' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:38:18,894 [wsz][Thread:9][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter4.QU', consumer tag='4a7bff29-68d5-4125-98ab-a9fe76724e25' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:38:18,926 [wsz][Thread:9][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter5.QU', consumer tag='51eea83d-41d9-4dba-85e0-be506a30d466' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:38:18,960 [wsz][Thread:9][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter6.QU', consumer tag='492b2875-20c1-4ee4-bc60-12805a1b024b' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:39:10,508 [wsz][Thread:8][INFO] JinRi.LogCenter.AppSetting - 初始化配置文件成功
+2017-10-24 15:39:10,534 [wsz][Thread:8][INFO] JinRi.LogCenter.DBLog - 初始化DataBufferPool成功
+2017-10-24 15:39:10,863 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Connected to RabbitMQ. Broker: '120.26.126.127', Port: 5672, VHost: '/'
+2017-10-24 15:39:10,868 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQHelper - 初始化IBus成功： connectionString=host=120.26.126.127:5672;username=admin;password=123456;prefetchcount=1
+2017-10-24 15:39:11,824 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter.QU', consumer tag='24fdea67-f8a4-4275-85a2-bc7f328059dd' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:39:11,865 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter2.QU', consumer tag='fc19d4f5-7811-48a4-8a1f-9c9fd831d17b' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:39:11,899 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter3.QU', consumer tag='87d80b63-68f5-457b-8f68-de9a72446362' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:39:11,980 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter4.QU', consumer tag='1ad6ffcc-df99-47a2-80be-53965fa526be' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:39:12,014 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter5.QU', consumer tag='7de024b9-aa81-411c-9070-8cf1c67cc765' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:39:12,050 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter6.QU', consumer tag='2fffa6bf-7e5e-4deb-a4e9-0ab3bd61c7eb' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:39:12,266 [wsz][Thread:23][INFO] JinRi.LogCenter.LogMessageDAL - 批量成功往dbo.tbl_Interface_HandleLog_201710-HandleLog_4a35de3927a74bdd9db8bc087c630e08表插入300条数据
+2017-10-24 15:39:14,733 [wsz][Thread:27][INFO] JinRi.LogCenter.LogMessageDAL - 批量成功往dbo.tbl_Interface_HandleLog_201710-HandleLog_46ea30c99eb141ed807062ee732387d6表插入80条数据
+2017-10-24 15:40:08,019 [wsz][Thread:8][INFO] JinRi.LogCenter.AppSetting - 初始化配置文件成功
+2017-10-24 15:40:08,046 [wsz][Thread:8][INFO] JinRi.LogCenter.DBLog - 初始化DataBufferPool成功
+2017-10-24 15:40:08,405 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Connected to RabbitMQ. Broker: '120.26.126.127', Port: 5672, VHost: '/'
+2017-10-24 15:40:08,410 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQHelper - 初始化IBus成功： connectionString=host=120.26.126.127:5672;username=admin;password=123456;prefetchcount=1
+2017-10-24 15:46:07,310 [wsz][Thread:9][INFO] JinRi.LogCenter.AppSetting - 初始化配置文件成功
+2017-10-24 15:46:07,347 [wsz][Thread:9][INFO] JinRi.LogCenter.DBLog - 初始化DataBufferPool成功
+2017-10-24 15:50:53,996 [wsz][Thread:8][INFO] JinRi.LogCenter.AppSetting - 初始化配置文件成功
+2017-10-24 15:51:37,572 [wsz][Thread:8][INFO] JinRi.LogCenter.DBLog - 初始化DataBufferPool成功
+2017-10-24 15:51:42,504 [wsz][Thread:18][INFO] JinRi.LogCenter.EasyNetQLogger - Connected to RabbitMQ. Broker: '120.26.126.127', Port: 5672, VHost: '/'
+2017-10-24 15:51:42,510 [wsz][Thread:18][INFO] JinRi.LogCenter.EasyNetQHelper - 初始化IBus成功： connectionString=host=120.26.126.127:5672;username=admin;password=123456;prefetchcount=1
+2017-10-24 15:51:42,755 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter.QU', consumer tag='81e8c7ea-b22d-42b6-81ff-433e9da0ed1c' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:51:44,236 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter2.QU', consumer tag='ee2903be-5915-4b36-8325-78753b7a80c5' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:51:45,111 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter3.QU', consumer tag='c916e2fa-c363-49f1-bcb7-d549c90c2c5d' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:51:47,463 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter4.QU', consumer tag='3cb841b4-ec88-4b83-8b78-47caf192e8da' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:51:48,990 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter5.QU', consumer tag='b1185dff-2d07-490c-b3b1-419f559b1ac1' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:51:50,281 [wsz][Thread:8][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter6.QU', consumer tag='7e4a2249-11e3-4104-a017-85e5d4c1bba1' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:51:52,224 [wsz][Thread:8][INFO] JinRi.LogCenter.LogMessageDAL - 批量成功往dbo.tbl_Interface_HandleLog_201710-HandleLog_d56673742e6347f7b287a695ce63b74c表插入190条数据
+2017-10-24 15:51:58,307 [wsz][Thread:21][INFO] JinRi.LogCenter.LogMessageDAL - 批量成功往dbo.tbl_Interface_ProcessLog_201710-ProcessLog_7decdbed57914ef5b4bbc469345ffabc表插入190条数据
+2017-10-24 15:52:43,071 [wsz][Thread:9][INFO] JinRi.LogCenter.AppSetting - 初始化配置文件成功
+2017-10-24 15:53:42,934 [wsz][Thread:9][INFO] JinRi.LogCenter.DBLog - 初始化DataBufferPool成功
+2017-10-24 15:54:11,783 [wsz][Thread:9][INFO] JinRi.LogCenter.EasyNetQLogger - Connected to RabbitMQ. Broker: '120.26.126.127', Port: 5672, VHost: '/'
+2017-10-24 15:54:11,788 [wsz][Thread:9][INFO] JinRi.LogCenter.EasyNetQHelper - 初始化IBus成功： connectionString=host=120.26.126.127:5672;username=admin;password=123456;prefetchcount=1
+2017-10-24 15:54:12,102 [wsz][Thread:9][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter.QU', consumer tag='7ed4d16f-4630-4fe5-83a3-4bc148e13303' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:54:14,820 [wsz][Thread:9][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter2.QU', consumer tag='3aba78eb-bb6d-41b3-a22e-8b2a98775475' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:54:14,854 [wsz][Thread:9][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter3.QU', consumer tag='d9dde978-d901-4c05-8ca6-8a50b4eb61f1' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:54:14,978 [wsz][Thread:9][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter4.QU', consumer tag='e121fc5d-b861-4671-a218-6638c7bb79b1' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:54:15,014 [wsz][Thread:9][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter5.QU', consumer tag='cb37c6ab-9cd1-4f7b-895f-b49448b60582' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:54:15,050 [wsz][Thread:9][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter6.QU', consumer tag='456b5663-fc5f-4122-802a-2de0e498a448' prefetchcount=1 priority=0 x-cancel-on-ha-failover=False
+2017-10-24 15:54:18,604 [wsz][Thread:22][INFO] JinRi.LogCenter.LogMessageDAL - 批量成功往dbo.tbl_Interface_HandleLog_201710-HandleLog_feb45598cfbc48f3842a5d11b347b033表插入1条数据
+2017-10-24 15:54:19,990 [wsz][Thread:28][INFO] JinRi.LogCenter.LogMessageDAL - 批量成功往dbo.tbl_Interface_ProcessLog_201710-ProcessLog_1e477eec8911471d9606a34b9bd2123d表插入1条数据
+2017-10-24 15:54:20,526 [wsz][Thread:29][INFO] JinRi.LogCenter.LogMessageDAL - 批量成功往dbo.tbl_Interface_HandleLog_201710-HandleLog_890a2973522e47e4a5881cb2d7101755表插入189条数据
+2017-10-24 15:54:20,607 [wsz][Thread:29][INFO] JinRi.LogCenter.LogMessageDAL - 批量成功往dbo.tbl_Interface_ProcessLog_201710-ProcessLog_33ebeeccc2984c96a7a22efd91156311表插入189条数据

@@ -1,0 +1,75 @@
+2017-11-22 10:36:52,027 [wsz][Thread:16][INFO] JinRi.LogCenter.AppSetting - 初始化配置文件成功
+2017-11-22 10:36:54,983 [wsz][Thread:16][DEBUG] JinRi.LogCenter.EasyNetQLogger - Trying to connect
+2017-11-22 10:36:56,572 [wsz][Thread:16][DEBUG] JinRi.LogCenter.EasyNetQLogger - OnConnected event fired
+2017-11-22 10:36:56,574 [wsz][Thread:16][INFO] JinRi.LogCenter.EasyNetQLogger - Connected to RabbitMQ. Broker: '192.168.2.196', Port: 5672, VHost: 'default'
+2017-11-22 10:36:58,047 [wsz][Thread:16][INFO] JinRi.LogCenter.EasyNetQHelper - 初始化IBus成功： connectionString=host=192.168.2.196:5672;virtualHost=default;username=dev_jinri01;password=dev_jinri01@196
+2017-11-22 10:36:58,066 [wsz][Thread:Client Command Dispatcher Thread][DEBUG] JinRi.LogCenter.EasyNetQLogger - Persistent channel connected.
+2017-11-22 10:36:58,073 [wsz][Thread:20][DEBUG] JinRi.LogCenter.EasyNetQLogger - Declared Exchange: JinRi.LogCenter.EX type:direct, durable:True, autoDelete:False, delayed:False
+2017-11-22 10:36:58,079 [wsz][Thread:20][DEBUG] JinRi.LogCenter.EasyNetQLogger - Declared Queue: 'JinRi.LogCenter.QU', durable:True, exclusive:False, autoDelete:False, args:
+2017-11-22 10:36:58,082 [wsz][Thread:16][DEBUG] JinRi.LogCenter.EasyNetQLogger - Bound queue JinRi.LogCenter.QU to exchange JinRi.LogCenter.EX with routing key JinRi.LogCenter.RK
+2017-11-22 10:36:58,084 [wsz][Thread:20][DEBUG] JinRi.LogCenter.EasyNetQLogger - Declared Exchange: JinRi.LogCenter2.EX type:direct, durable:True, autoDelete:False, delayed:False
+2017-11-22 10:36:58,092 [wsz][Thread:19][DEBUG] JinRi.LogCenter.EasyNetQLogger - Declared Queue: 'JinRi.LogCenter2.QU', durable:True, exclusive:False, autoDelete:False, args:
+2017-11-22 10:36:58,094 [wsz][Thread:16][DEBUG] JinRi.LogCenter.EasyNetQLogger - Bound queue JinRi.LogCenter2.QU to exchange JinRi.LogCenter2.EX with routing key JinRi.LogCenter2.RK
+2017-11-22 10:36:58,095 [wsz][Thread:8][DEBUG] JinRi.LogCenter.EasyNetQLogger - Declared Exchange: JinRi.LogCenter3.EX type:direct, durable:True, autoDelete:False, delayed:False
+2017-11-22 10:36:58,096 [wsz][Thread:20][DEBUG] JinRi.LogCenter.EasyNetQLogger - Declared Queue: 'JinRi.LogCenter3.QU', durable:True, exclusive:False, autoDelete:False, args:
+2017-11-22 10:36:58,098 [wsz][Thread:16][DEBUG] JinRi.LogCenter.EasyNetQLogger - Bound queue JinRi.LogCenter3.QU to exchange JinRi.LogCenter3.EX with routing key JinRi.LogCenter3.RK
+2017-11-22 10:36:58,099 [wsz][Thread:19][DEBUG] JinRi.LogCenter.EasyNetQLogger - Declared Exchange: JinRi.LogCenter4.EX type:direct, durable:True, autoDelete:False, delayed:False
+2017-11-22 10:36:58,100 [wsz][Thread:8][DEBUG] JinRi.LogCenter.EasyNetQLogger - Declared Queue: 'JinRi.LogCenter4.QU', durable:True, exclusive:False, autoDelete:False, args:
+2017-11-22 10:36:58,101 [wsz][Thread:16][DEBUG] JinRi.LogCenter.EasyNetQLogger - Bound queue JinRi.LogCenter4.QU to exchange JinRi.LogCenter4.EX with routing key JinRi.LogCenter4.RK
+2017-11-22 10:36:58,102 [wsz][Thread:19][DEBUG] JinRi.LogCenter.EasyNetQLogger - Declared Exchange: JinRi.LogCenter5.EX type:direct, durable:True, autoDelete:False, delayed:False
+2017-11-22 10:36:58,103 [wsz][Thread:9][DEBUG] JinRi.LogCenter.EasyNetQLogger - Declared Queue: 'JinRi.LogCenter5.QU', durable:True, exclusive:False, autoDelete:False, args:
+2017-11-22 10:36:58,104 [wsz][Thread:16][DEBUG] JinRi.LogCenter.EasyNetQLogger - Bound queue JinRi.LogCenter5.QU to exchange JinRi.LogCenter5.EX with routing key JinRi.LogCenter5.RK
+2017-11-22 10:36:58,105 [wsz][Thread:20][DEBUG] JinRi.LogCenter.EasyNetQLogger - Declared Exchange: JinRi.LogCenter6.EX type:direct, durable:True, autoDelete:False, delayed:False
+2017-11-22 10:36:58,106 [wsz][Thread:19][DEBUG] JinRi.LogCenter.EasyNetQLogger - Declared Queue: 'JinRi.LogCenter6.QU', durable:True, exclusive:False, autoDelete:False, args:
+2017-11-22 10:36:58,107 [wsz][Thread:16][DEBUG] JinRi.LogCenter.EasyNetQLogger - Bound queue JinRi.LogCenter6.QU to exchange JinRi.LogCenter6.EX with routing key JinRi.LogCenter6.RK
+2017-11-22 10:36:58,120 [wsz][Thread:16][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter2.QU', consumer tag='45b96b58-d58f-4c4a-9c51-011b904e72a3' prefetchcount=50 priority=0 x-cancel-on-ha-failover=False
+2017-11-22 10:38:00,309 [wsz][Thread:15][INFO] JinRi.LogCenter.AppSetting - 初始化配置文件成功
+2017-11-22 10:38:03,202 [wsz][Thread:15][DEBUG] JinRi.LogCenter.EasyNetQLogger - Trying to connect
+2017-11-22 10:38:04,570 [wsz][Thread:15][DEBUG] JinRi.LogCenter.EasyNetQLogger - OnConnected event fired
+2017-11-22 10:38:04,573 [wsz][Thread:15][INFO] JinRi.LogCenter.EasyNetQLogger - Connected to RabbitMQ. Broker: '192.168.2.196', Port: 5672, VHost: 'default'
+2017-11-22 10:38:06,365 [wsz][Thread:15][INFO] JinRi.LogCenter.EasyNetQHelper - 初始化IBus成功： connectionString=host=192.168.2.196:5672;virtualHost=default;username=dev_jinri01;password=dev_jinri01@196
+2017-11-22 10:38:06,401 [wsz][Thread:Client Command Dispatcher Thread][DEBUG] JinRi.LogCenter.EasyNetQLogger - Persistent channel connected.
+2017-11-22 10:38:06,405 [wsz][Thread:9][DEBUG] JinRi.LogCenter.EasyNetQLogger - Declared Exchange: JinRi.LogCenter.EX type:direct, durable:True, autoDelete:False, delayed:False
+2017-11-22 10:38:06,411 [wsz][Thread:9][DEBUG] JinRi.LogCenter.EasyNetQLogger - Declared Queue: 'JinRi.LogCenter.QU', durable:True, exclusive:False, autoDelete:False, args:
+2017-11-22 10:38:06,414 [wsz][Thread:15][DEBUG] JinRi.LogCenter.EasyNetQLogger - Bound queue JinRi.LogCenter.QU to exchange JinRi.LogCenter.EX with routing key JinRi.LogCenter.RK
+2017-11-22 10:38:06,423 [wsz][Thread:19][DEBUG] JinRi.LogCenter.EasyNetQLogger - Declared Exchange: JinRi.LogCenter2.EX type:direct, durable:True, autoDelete:False, delayed:False
+2017-11-22 10:38:06,425 [wsz][Thread:9][DEBUG] JinRi.LogCenter.EasyNetQLogger - Declared Queue: 'JinRi.LogCenter2.QU', durable:True, exclusive:False, autoDelete:False, args:
+2017-11-22 10:38:06,426 [wsz][Thread:15][DEBUG] JinRi.LogCenter.EasyNetQLogger - Bound queue JinRi.LogCenter2.QU to exchange JinRi.LogCenter2.EX with routing key JinRi.LogCenter2.RK
+2017-11-22 10:38:06,428 [wsz][Thread:19][DEBUG] JinRi.LogCenter.EasyNetQLogger - Declared Exchange: JinRi.LogCenter3.EX type:direct, durable:True, autoDelete:False, delayed:False
+2017-11-22 10:38:06,429 [wsz][Thread:9][DEBUG] JinRi.LogCenter.EasyNetQLogger - Declared Queue: 'JinRi.LogCenter3.QU', durable:True, exclusive:False, autoDelete:False, args:
+2017-11-22 10:38:06,431 [wsz][Thread:15][DEBUG] JinRi.LogCenter.EasyNetQLogger - Bound queue JinRi.LogCenter3.QU to exchange JinRi.LogCenter3.EX with routing key JinRi.LogCenter3.RK
+2017-11-22 10:38:06,432 [wsz][Thread:19][DEBUG] JinRi.LogCenter.EasyNetQLogger - Declared Exchange: JinRi.LogCenter4.EX type:direct, durable:True, autoDelete:False, delayed:False
+2017-11-22 10:38:06,433 [wsz][Thread:9][DEBUG] JinRi.LogCenter.EasyNetQLogger - Declared Queue: 'JinRi.LogCenter4.QU', durable:True, exclusive:False, autoDelete:False, args:
+2017-11-22 10:38:06,434 [wsz][Thread:15][DEBUG] JinRi.LogCenter.EasyNetQLogger - Bound queue JinRi.LogCenter4.QU to exchange JinRi.LogCenter4.EX with routing key JinRi.LogCenter4.RK
+2017-11-22 10:38:06,435 [wsz][Thread:9][DEBUG] JinRi.LogCenter.EasyNetQLogger - Declared Exchange: JinRi.LogCenter5.EX type:direct, durable:True, autoDelete:False, delayed:False
+2017-11-22 10:38:06,437 [wsz][Thread:19][DEBUG] JinRi.LogCenter.EasyNetQLogger - Declared Queue: 'JinRi.LogCenter5.QU', durable:True, exclusive:False, autoDelete:False, args:
+2017-11-22 10:38:06,438 [wsz][Thread:15][DEBUG] JinRi.LogCenter.EasyNetQLogger - Bound queue JinRi.LogCenter5.QU to exchange JinRi.LogCenter5.EX with routing key JinRi.LogCenter5.RK
+2017-11-22 10:38:06,439 [wsz][Thread:19][DEBUG] JinRi.LogCenter.EasyNetQLogger - Declared Exchange: JinRi.LogCenter6.EX type:direct, durable:True, autoDelete:False, delayed:False
+2017-11-22 10:38:06,440 [wsz][Thread:9][DEBUG] JinRi.LogCenter.EasyNetQLogger - Declared Queue: 'JinRi.LogCenter6.QU', durable:True, exclusive:False, autoDelete:False, args:
+2017-11-22 10:38:06,441 [wsz][Thread:15][DEBUG] JinRi.LogCenter.EasyNetQLogger - Bound queue JinRi.LogCenter6.QU to exchange JinRi.LogCenter6.EX with routing key JinRi.LogCenter6.RK
+2017-11-22 10:38:06,454 [wsz][Thread:15][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter2.QU', consumer tag='f8c343e8-00c6-46c9-8326-0107a0a5f563' prefetchcount=50 priority=0 x-cancel-on-ha-failover=False
+2017-11-22 10:39:03,347 [wsz][Thread:14][INFO] JinRi.LogCenter.AppSetting - 初始化配置文件成功
+2017-11-22 10:39:03,500 [wsz][Thread:14][DEBUG] JinRi.LogCenter.EasyNetQLogger - Trying to connect
+2017-11-22 10:39:03,672 [wsz][Thread:14][DEBUG] JinRi.LogCenter.EasyNetQLogger - OnConnected event fired
+2017-11-22 10:39:03,674 [wsz][Thread:14][INFO] JinRi.LogCenter.EasyNetQLogger - Connected to RabbitMQ. Broker: '192.168.2.196', Port: 5672, VHost: 'default'
+2017-11-22 10:39:03,679 [wsz][Thread:14][INFO] JinRi.LogCenter.EasyNetQHelper - 初始化IBus成功： connectionString=host=192.168.2.196:5672;virtualHost=default;username=dev_jinri01;password=dev_jinri01@196
+2017-11-22 10:39:03,689 [wsz][Thread:Client Command Dispatcher Thread][DEBUG] JinRi.LogCenter.EasyNetQLogger - Persistent channel connected.
+2017-11-22 10:39:03,693 [wsz][Thread:8][DEBUG] JinRi.LogCenter.EasyNetQLogger - Declared Exchange: JinRi.LogCenter.EX type:direct, durable:True, autoDelete:False, delayed:False
+2017-11-22 10:39:03,698 [wsz][Thread:8][DEBUG] JinRi.LogCenter.EasyNetQLogger - Declared Queue: 'JinRi.LogCenter.QU', durable:True, exclusive:False, autoDelete:False, args:
+2017-11-22 10:39:03,701 [wsz][Thread:14][DEBUG] JinRi.LogCenter.EasyNetQLogger - Bound queue JinRi.LogCenter.QU to exchange JinRi.LogCenter.EX with routing key JinRi.LogCenter.RK
+2017-11-22 10:39:03,703 [wsz][Thread:9][DEBUG] JinRi.LogCenter.EasyNetQLogger - Declared Exchange: JinRi.LogCenter2.EX type:direct, durable:True, autoDelete:False, delayed:False
+2017-11-22 10:39:03,705 [wsz][Thread:8][DEBUG] JinRi.LogCenter.EasyNetQLogger - Declared Queue: 'JinRi.LogCenter2.QU', durable:True, exclusive:False, autoDelete:False, args:
+2017-11-22 10:39:03,706 [wsz][Thread:14][DEBUG] JinRi.LogCenter.EasyNetQLogger - Bound queue JinRi.LogCenter2.QU to exchange JinRi.LogCenter2.EX with routing key JinRi.LogCenter2.RK
+2017-11-22 10:39:03,715 [wsz][Thread:8][DEBUG] JinRi.LogCenter.EasyNetQLogger - Declared Exchange: JinRi.LogCenter3.EX type:direct, durable:True, autoDelete:False, delayed:False
+2017-11-22 10:39:03,716 [wsz][Thread:9][DEBUG] JinRi.LogCenter.EasyNetQLogger - Declared Queue: 'JinRi.LogCenter3.QU', durable:True, exclusive:False, autoDelete:False, args:
+2017-11-22 10:39:03,717 [wsz][Thread:14][DEBUG] JinRi.LogCenter.EasyNetQLogger - Bound queue JinRi.LogCenter3.QU to exchange JinRi.LogCenter3.EX with routing key JinRi.LogCenter3.RK
+2017-11-22 10:39:03,718 [wsz][Thread:8][DEBUG] JinRi.LogCenter.EasyNetQLogger - Declared Exchange: JinRi.LogCenter4.EX type:direct, durable:True, autoDelete:False, delayed:False
+2017-11-22 10:39:03,720 [wsz][Thread:9][DEBUG] JinRi.LogCenter.EasyNetQLogger - Declared Queue: 'JinRi.LogCenter4.QU', durable:True, exclusive:False, autoDelete:False, args:
+2017-11-22 10:39:03,721 [wsz][Thread:14][DEBUG] JinRi.LogCenter.EasyNetQLogger - Bound queue JinRi.LogCenter4.QU to exchange JinRi.LogCenter4.EX with routing key JinRi.LogCenter4.RK
+2017-11-22 10:39:03,722 [wsz][Thread:9][DEBUG] JinRi.LogCenter.EasyNetQLogger - Declared Exchange: JinRi.LogCenter5.EX type:direct, durable:True, autoDelete:False, delayed:False
+2017-11-22 10:39:03,723 [wsz][Thread:8][DEBUG] JinRi.LogCenter.EasyNetQLogger - Declared Queue: 'JinRi.LogCenter5.QU', durable:True, exclusive:False, autoDelete:False, args:
+2017-11-22 10:39:03,724 [wsz][Thread:14][DEBUG] JinRi.LogCenter.EasyNetQLogger - Bound queue JinRi.LogCenter5.QU to exchange JinRi.LogCenter5.EX with routing key JinRi.LogCenter5.RK
+2017-11-22 10:39:03,725 [wsz][Thread:9][DEBUG] JinRi.LogCenter.EasyNetQLogger - Declared Exchange: JinRi.LogCenter6.EX type:direct, durable:True, autoDelete:False, delayed:False
+2017-11-22 10:39:03,726 [wsz][Thread:8][DEBUG] JinRi.LogCenter.EasyNetQLogger - Declared Queue: 'JinRi.LogCenter6.QU', durable:True, exclusive:False, autoDelete:False, args:
+2017-11-22 10:39:03,727 [wsz][Thread:14][DEBUG] JinRi.LogCenter.EasyNetQLogger - Bound queue JinRi.LogCenter6.QU to exchange JinRi.LogCenter6.EX with routing key JinRi.LogCenter6.RK
+2017-11-22 10:39:03,741 [wsz][Thread:14][INFO] JinRi.LogCenter.EasyNetQLogger - Declared Consumer. queue='JinRi.LogCenter2.QU', consumer tag='b81ce427-396c-4d9e-b444-28ff2fea5453' prefetchcount=50 priority=0 x-cancel-on-ha-failover=False

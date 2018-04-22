@@ -1,0 +1,99 @@
+2017-11-22 09:45:50,563 [wsz][Thread:15][INFO] JinRi.LogCenter.AppSetting - 初始化配置文件成功
+2017-11-22 09:46:54,696 [wsz][Thread:15][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to Broker: '192.168.2.196', Port: 5672 VHost: 'default'. ExceptionMessage: 'None of the specified endpoints were reachable'
+2017-11-22 09:46:54,700 [wsz][Thread:15][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to any Broker. Retrying in 5000 ms
+
+2017-11-22 09:46:54,725 [wsz][Thread:15][INFO] JinRi.LogCenter.EasyNetQHelper - 初始化IBus成功： connectionString=host=192.168.2.196:5672;virtualHost=default;username=test_jinri01;password=G/IpUYV+a7yOTqVgCFmZZw
+2017-11-22 09:47:02,902 [wsz][Thread:5][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to Broker: '192.168.2.196', Port: 5672 VHost: 'default'. ExceptionMessage: 'None of the specified endpoints were reachable'
+2017-11-22 09:47:02,904 [wsz][Thread:5][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to any Broker. Retrying in 5000 ms
+
+2017-11-22 09:47:05,194 [wsz][Thread:Client Command Dispatcher Thread][ERROR] JinRi.LogCenter.EasyNetQLogger - Channel action timed out. Throwing exception to client.
+2017-11-22 09:47:05,323 [wsz][Thread:15][ERROR] JinRi.LogCenter.EasyNetQHelper - 初始化IBus异常：System.AggregateException: 发生一个或多个错误。 ---> System.TimeoutException: The operation requested on PersistentChannel timed out.
+   在 EasyNetQ.Producer.PersistentChannel.InvokeChannelActionInternal(Action`1 channelAction, DateTime startTime) 位置 f:\wsz\Project\JinRi.LogCenter\API\EasyNetQ\Producer\PersistentChannel.cs:行号 101
+   在 EasyNetQ.Producer.PersistentChannel.InvokeChannelActionInternal(Action`1 channelAction, DateTime startTime) 位置 f:\wsz\Project\JinRi.LogCenter\API\EasyNetQ\Producer\PersistentChannel.cs:行号 133
+   在 EasyNetQ.Producer.PersistentChannel.InvokeChannelAction(Action`1 channelAction) 位置 f:\wsz\Project\JinRi.LogCenter\API\EasyNetQ\Producer\PersistentChannel.cs:行号 93
+   在 EasyNetQ.Producer.ClientCommandDispatcherSingleton.<>c__DisplayClass5`1.<InvokeAsync>b__2() 位置 f:\wsz\Project\JinRi.LogCenter\API\EasyNetQ\Producer\ClientCommandDispatcherSingleton.cs:行号 65
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   在 System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   在 System.Threading.Tasks.Task`1.get_Result()
+   在 EasyNetQ.RabbitAdvancedBus.ExchangeDeclare(String name, String type, Boolean passive, Boolean durable, Boolean autoDelete, Boolean internal, String alternateExchange, Boolean delayed) 位置 f:\wsz\Project\JinRi.LogCenter\API\EasyNetQ\RabbitAdvancedBus.cs:行号 395
+   在 JinRi.LogCenter.EasyNetQHelper.Register() 位置 f:\wsz\Project\JinRi.LogCenter\src\JinRi.LogCenter\RabbitMQ\EasyNetQHelper.cs:行号 50
+   在 JinRi.LogCenter.EasyNetQHelper..cctor() 位置 f:\wsz\Project\JinRi.LogCenter\src\JinRi.LogCenter\RabbitMQ\EasyNetQHelper.cs:行号 37
+---> (内部异常 #0) System.TimeoutException: The operation requested on PersistentChannel timed out.
+   在 EasyNetQ.Producer.PersistentChannel.InvokeChannelActionInternal(Action`1 channelAction, DateTime startTime) 位置 f:\wsz\Project\JinRi.LogCenter\API\EasyNetQ\Producer\PersistentChannel.cs:行号 101
+   在 EasyNetQ.Producer.PersistentChannel.InvokeChannelActionInternal(Action`1 channelAction, DateTime startTime) 位置 f:\wsz\Project\JinRi.LogCenter\API\EasyNetQ\Producer\PersistentChannel.cs:行号 133
+   在 EasyNetQ.Producer.PersistentChannel.InvokeChannelAction(Action`1 channelAction) 位置 f:\wsz\Project\JinRi.LogCenter\API\EasyNetQ\Producer\PersistentChannel.cs:行号 93
+   在 EasyNetQ.Producer.ClientCommandDispatcherSingleton.<>c__DisplayClass5`1.<InvokeAsync>b__2() 位置 f:\wsz\Project\JinRi.LogCenter\API\EasyNetQ\Producer\ClientCommandDispatcherSingleton.cs:行号 65<---
+
+2017-11-22 09:47:47,852 [wsz][Thread:18][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to Broker: '192.168.2.196', Port: 5672 VHost: 'default'. ExceptionMessage: 'None of the specified endpoints were reachable'
+2017-11-22 09:47:47,853 [wsz][Thread:18][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to any Broker. Retrying in 5000 ms
+
+2017-11-22 09:47:55,992 [wsz][Thread:18][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to Broker: '192.168.2.196', Port: 5672 VHost: 'default'. ExceptionMessage: 'None of the specified endpoints were reachable'
+2017-11-22 09:47:55,993 [wsz][Thread:18][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to any Broker. Retrying in 5000 ms
+
+2017-11-22 09:48:04,130 [wsz][Thread:9][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to Broker: '192.168.2.196', Port: 5672 VHost: 'default'. ExceptionMessage: 'None of the specified endpoints were reachable'
+2017-11-22 09:48:04,131 [wsz][Thread:9][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to any Broker. Retrying in 5000 ms
+
+2017-11-22 09:48:12,279 [wsz][Thread:18][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to Broker: '192.168.2.196', Port: 5672 VHost: 'default'. ExceptionMessage: 'None of the specified endpoints were reachable'
+2017-11-22 09:48:12,280 [wsz][Thread:18][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to any Broker. Retrying in 5000 ms
+
+2017-11-22 09:48:20,409 [wsz][Thread:18][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to Broker: '192.168.2.196', Port: 5672 VHost: 'default'. ExceptionMessage: 'None of the specified endpoints were reachable'
+2017-11-22 09:48:20,410 [wsz][Thread:18][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to any Broker. Retrying in 5000 ms
+
+2017-11-22 09:48:28,590 [wsz][Thread:9][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to Broker: '192.168.2.196', Port: 5672 VHost: 'default'. ExceptionMessage: 'None of the specified endpoints were reachable'
+2017-11-22 09:48:28,592 [wsz][Thread:9][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to any Broker. Retrying in 5000 ms
+
+2017-11-22 09:48:36,735 [wsz][Thread:18][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to Broker: '192.168.2.196', Port: 5672 VHost: 'default'. ExceptionMessage: 'None of the specified endpoints were reachable'
+2017-11-22 09:48:36,736 [wsz][Thread:18][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to any Broker. Retrying in 5000 ms
+
+2017-11-22 09:48:44,887 [wsz][Thread:9][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to Broker: '192.168.2.196', Port: 5672 VHost: 'default'. ExceptionMessage: 'None of the specified endpoints were reachable'
+2017-11-22 09:48:44,888 [wsz][Thread:9][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to any Broker. Retrying in 5000 ms
+
+2017-11-22 09:48:53,039 [wsz][Thread:18][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to Broker: '192.168.2.196', Port: 5672 VHost: 'default'. ExceptionMessage: 'None of the specified endpoints were reachable'
+2017-11-22 09:48:53,040 [wsz][Thread:18][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to any Broker. Retrying in 5000 ms
+
+2017-11-22 09:49:01,180 [wsz][Thread:18][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to Broker: '192.168.2.196', Port: 5672 VHost: 'default'. ExceptionMessage: 'None of the specified endpoints were reachable'
+2017-11-22 09:49:01,182 [wsz][Thread:18][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to any Broker. Retrying in 5000 ms
+
+2017-11-22 09:49:09,339 [wsz][Thread:9][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to Broker: '192.168.2.196', Port: 5672 VHost: 'default'. ExceptionMessage: 'None of the specified endpoints were reachable'
+2017-11-22 09:49:09,340 [wsz][Thread:9][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to any Broker. Retrying in 5000 ms
+
+2017-11-22 09:49:17,484 [wsz][Thread:4][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to Broker: '192.168.2.196', Port: 5672 VHost: 'default'. ExceptionMessage: 'None of the specified endpoints were reachable'
+2017-11-22 09:49:17,485 [wsz][Thread:4][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to any Broker. Retrying in 5000 ms
+
+2017-11-22 09:49:25,599 [wsz][Thread:9][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to Broker: '192.168.2.196', Port: 5672 VHost: 'default'. ExceptionMessage: 'None of the specified endpoints were reachable'
+2017-11-22 09:49:25,600 [wsz][Thread:9][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to any Broker. Retrying in 5000 ms
+
+2017-11-22 09:49:33,772 [wsz][Thread:18][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to Broker: '192.168.2.196', Port: 5672 VHost: 'default'. ExceptionMessage: 'None of the specified endpoints were reachable'
+2017-11-22 09:49:33,773 [wsz][Thread:18][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to any Broker. Retrying in 5000 ms
+
+2017-11-22 09:49:41,936 [wsz][Thread:4][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to Broker: '192.168.2.196', Port: 5672 VHost: 'default'. ExceptionMessage: 'None of the specified endpoints were reachable'
+2017-11-22 09:49:41,938 [wsz][Thread:4][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to any Broker. Retrying in 5000 ms
+
+2017-11-22 09:49:50,097 [wsz][Thread:9][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to Broker: '192.168.2.196', Port: 5672 VHost: 'default'. ExceptionMessage: 'None of the specified endpoints were reachable'
+2017-11-22 09:49:50,099 [wsz][Thread:9][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to any Broker. Retrying in 5000 ms
+
+2017-11-22 09:49:58,254 [wsz][Thread:9][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to Broker: '192.168.2.196', Port: 5672 VHost: 'default'. ExceptionMessage: 'None of the specified endpoints were reachable'
+2017-11-22 09:49:58,256 [wsz][Thread:9][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to any Broker. Retrying in 5000 ms
+
+2017-11-22 09:50:06,411 [wsz][Thread:18][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to Broker: '192.168.2.196', Port: 5672 VHost: 'default'. ExceptionMessage: 'None of the specified endpoints were reachable'
+2017-11-22 09:50:06,411 [wsz][Thread:18][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to any Broker. Retrying in 5000 ms
+
+2017-11-22 09:50:14,613 [wsz][Thread:9][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to Broker: '192.168.2.196', Port: 5672 VHost: 'default'. ExceptionMessage: 'None of the specified endpoints were reachable'
+2017-11-22 09:50:14,615 [wsz][Thread:9][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to any Broker. Retrying in 5000 ms
+
+2017-11-22 09:50:22,807 [wsz][Thread:9][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to Broker: '192.168.2.196', Port: 5672 VHost: 'default'. ExceptionMessage: 'None of the specified endpoints were reachable'
+2017-11-22 09:50:22,809 [wsz][Thread:9][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to any Broker. Retrying in 5000 ms
+
+2017-11-22 09:50:30,929 [wsz][Thread:18][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to Broker: '192.168.2.196', Port: 5672 VHost: 'default'. ExceptionMessage: 'None of the specified endpoints were reachable'
+2017-11-22 09:50:30,930 [wsz][Thread:18][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to any Broker. Retrying in 5000 ms
+
+2017-11-22 09:50:39,104 [wsz][Thread:9][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to Broker: '192.168.2.196', Port: 5672 VHost: 'default'. ExceptionMessage: 'None of the specified endpoints were reachable'
+2017-11-22 09:50:39,106 [wsz][Thread:9][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to any Broker. Retrying in 5000 ms
+
+2017-11-22 09:50:47,290 [wsz][Thread:9][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to Broker: '192.168.2.196', Port: 5672 VHost: 'default'. ExceptionMessage: 'None of the specified endpoints were reachable'
+2017-11-22 09:50:47,291 [wsz][Thread:9][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to any Broker. Retrying in 5000 ms
+
+2017-11-22 09:50:55,460 [wsz][Thread:9][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to Broker: '192.168.2.196', Port: 5672 VHost: 'default'. ExceptionMessage: 'None of the specified endpoints were reachable'
+2017-11-22 09:50:55,461 [wsz][Thread:9][ERROR] JinRi.LogCenter.EasyNetQLogger - Failed to connect to any Broker. Retrying in 5000 ms
+

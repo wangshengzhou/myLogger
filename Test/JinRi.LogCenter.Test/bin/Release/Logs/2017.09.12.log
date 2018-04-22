@@ -1,0 +1,56 @@
+2017-09-12 15:12:34,488 [wsz][Thread:16][INFO] JinRi.LogCenter.AppSetting - 初始化配置文件成功
+2017-09-12 15:12:34,512 [wsz][Thread:16][INFO] JinRi.LogCenter.DBLog - 初始化DataBufferPool成功
+2017-09-12 15:12:34,942 [wsz][Thread:20][INFO] JinRi.LogCenter.EasyNetQLogger - Connected to RabbitMQ. Broker: '120.26.126.127', Port: 5672, VHost: '/'
+2017-09-12 15:12:34,953 [wsz][Thread:20][INFO] JinRi.LogCenter.EasyNetQHelper - 初始化IBus成功： connectionString=host=120.26.126.127:5672;username=admin;password=123456
+2017-09-12 15:16:08,883 [wsz][Thread:17][INFO] JinRi.LogCenter.AppSetting - 初始化配置文件成功
+2017-09-12 15:16:08,907 [wsz][Thread:17][INFO] JinRi.LogCenter.DBLog - 初始化DataBufferPool成功
+2017-09-12 15:16:09,366 [wsz][Thread:21][INFO] JinRi.LogCenter.EasyNetQLogger - Connected to RabbitMQ. Broker: '120.26.126.127', Port: 5672, VHost: '/'
+2017-09-12 15:16:09,372 [wsz][Thread:21][INFO] JinRi.LogCenter.EasyNetQHelper - 初始化IBus成功： connectionString=host=120.26.126.127:5672;username=admin;password=123456
+2017-09-12 16:43:11,771 [wsz][Thread:16][INFO] JinRi.LogCenter.AppSetting - 初始化配置文件成功
+2017-09-12 16:43:11,795 [wsz][Thread:16][INFO] JinRi.LogCenter.DBLog - 初始化DataBufferPool成功
+2017-09-12 16:43:12,245 [wsz][Thread:21][INFO] JinRi.LogCenter.EasyNetQLogger - Connected to RabbitMQ. Broker: '120.26.126.127', Port: 5672, VHost: '/'
+2017-09-12 16:43:12,250 [wsz][Thread:21][INFO] JinRi.LogCenter.EasyNetQHelper - 初始化IBus成功： connectionString=host=120.26.126.127:5672;username=admin;password=123456;prefetchcount=10
+2017-09-12 17:07:04,522 [wsz][Thread:16][INFO] JinRi.LogCenter.AppSetting - 初始化配置文件成功
+2017-09-12 17:07:04,546 [wsz][Thread:16][INFO] JinRi.LogCenter.DBLog - 初始化DataBufferPool成功
+2017-09-12 17:07:04,990 [wsz][Thread:20][INFO] JinRi.LogCenter.EasyNetQLogger - Connected to RabbitMQ. Broker: '120.26.126.127', Port: 5672, VHost: '/'
+2017-09-12 17:07:04,995 [wsz][Thread:20][INFO] JinRi.LogCenter.EasyNetQHelper - 初始化IBus成功： connectionString=host=120.26.126.127:5672;username=admin;password=123456;prefetchcount=10
+2017-09-12 17:55:50,836 [wsz][Thread:16][INFO] JinRi.LogCenter.AppSetting - 初始化配置文件成功
+2017-09-12 17:55:50,860 [wsz][Thread:16][INFO] JinRi.LogCenter.DBLog - 初始化DataBufferPool成功
+2017-09-12 17:55:51,311 [wsz][Thread:20][INFO] JinRi.LogCenter.EasyNetQLogger - Connected to RabbitMQ. Broker: '120.26.126.127', Port: 5672, VHost: '/'
+2017-09-12 17:55:51,317 [wsz][Thread:20][INFO] JinRi.LogCenter.EasyNetQHelper - 初始化IBus成功： connectionString=host=120.26.126.127:5672;username=admin;password=123456;prefetchcount=1
+2017-09-12 17:59:01,433 [wsz][Thread:16][INFO] JinRi.LogCenter.AppSetting - 初始化配置文件成功
+2017-09-12 17:59:01,457 [wsz][Thread:16][INFO] JinRi.LogCenter.DBLog - 初始化DataBufferPool成功
+2017-09-12 17:59:01,896 [wsz][Thread:20][INFO] JinRi.LogCenter.EasyNetQLogger - Connected to RabbitMQ. Broker: '120.26.126.127', Port: 5672, VHost: '/'
+2017-09-12 17:59:01,902 [wsz][Thread:20][INFO] JinRi.LogCenter.EasyNetQHelper - 初始化IBus成功： connectionString=host=120.26.126.127:5672;username=admin;password=123456;prefetchcount=1
+2017-09-12 18:04:31,642 [wsz][Thread:16][INFO] JinRi.LogCenter.AppSetting - 初始化配置文件成功
+2017-09-12 18:04:31,668 [wsz][Thread:16][INFO] JinRi.LogCenter.DBLog - 初始化DataBufferPool成功
+2017-09-12 18:04:32,107 [wsz][Thread:21][INFO] JinRi.LogCenter.EasyNetQLogger - Connected to RabbitMQ. Broker: '120.26.126.127', Port: 5672, VHost: '/'
+2017-09-12 18:04:32,113 [wsz][Thread:21][INFO] JinRi.LogCenter.EasyNetQHelper - 初始化IBus成功： connectionString=host=120.26.126.127:5672;username=admin;password=123456;prefetchcount=1
+2017-09-12 18:05:26,320 [wsz][Thread:16][INFO] JinRi.LogCenter.AppSetting - 初始化配置文件成功
+2017-09-12 18:05:26,346 [wsz][Thread:16][INFO] JinRi.LogCenter.DBLog - 初始化DataBufferPool成功
+2017-09-12 18:05:26,769 [wsz][Thread:21][INFO] JinRi.LogCenter.EasyNetQLogger - Connected to RabbitMQ. Broker: '120.26.126.127', Port: 5672, VHost: '/'
+2017-09-12 18:05:26,774 [wsz][Thread:21][INFO] JinRi.LogCenter.EasyNetQHelper - 初始化IBus成功： connectionString=host=120.26.126.127:5672;username=admin;password=123456;prefetchcount=1
+2017-09-12 18:11:25,887 [wsz][Thread:16][INFO] JinRi.LogCenter.AppSetting - 初始化配置文件成功
+2017-09-12 18:11:25,914 [wsz][Thread:16][INFO] JinRi.LogCenter.DBLog - 初始化DataBufferPool成功
+2017-09-12 18:11:26,354 [wsz][Thread:20][INFO] JinRi.LogCenter.EasyNetQLogger - Connected to RabbitMQ. Broker: '120.26.126.127', Port: 5672, VHost: '/'
+2017-09-12 18:11:26,360 [wsz][Thread:20][INFO] JinRi.LogCenter.EasyNetQHelper - 初始化IBus成功： connectionString=host=120.26.126.127:5672;username=admin;password=123456;prefetchcount=1
+2017-09-12 18:17:32,725 [wsz][Thread:16][INFO] JinRi.LogCenter.AppSetting - 初始化配置文件成功
+2017-09-12 18:17:32,749 [wsz][Thread:16][INFO] JinRi.LogCenter.DBLog - 初始化DataBufferPool成功
+2017-09-12 18:17:33,175 [wsz][Thread:21][INFO] JinRi.LogCenter.EasyNetQLogger - Connected to RabbitMQ. Broker: '120.26.126.127', Port: 5672, VHost: '/'
+2017-09-12 18:17:33,180 [wsz][Thread:21][INFO] JinRi.LogCenter.EasyNetQHelper - 初始化IBus成功： connectionString=host=120.26.126.127:5672;username=admin;password=123456;prefetchcount=1
+2017-09-12 18:24:55,152 [wsz][Thread:17][INFO] JinRi.LogCenter.AppSetting - 初始化配置文件成功
+2017-09-12 18:24:55,174 [wsz][Thread:17][INFO] JinRi.LogCenter.DBLog - 初始化DataBufferPool成功
+2017-09-12 18:24:55,592 [wsz][Thread:21][INFO] JinRi.LogCenter.EasyNetQLogger - Connected to RabbitMQ. Broker: '120.26.126.127', Port: 5672, VHost: '/'
+2017-09-12 18:24:55,597 [wsz][Thread:21][INFO] JinRi.LogCenter.EasyNetQHelper - 初始化IBus成功： connectionString=host=120.26.126.127:5672;username=admin;password=123456;prefetchcount=1
+2017-09-12 18:28:01,047 [wsz][Thread:16][INFO] JinRi.LogCenter.AppSetting - 初始化配置文件成功
+2017-09-12 18:28:01,073 [wsz][Thread:16][INFO] JinRi.LogCenter.DBLog - 初始化DataBufferPool成功
+2017-09-12 18:28:01,495 [wsz][Thread:20][INFO] JinRi.LogCenter.EasyNetQLogger - Connected to RabbitMQ. Broker: '120.26.126.127', Port: 5672, VHost: '/'
+2017-09-12 18:28:01,500 [wsz][Thread:20][INFO] JinRi.LogCenter.EasyNetQHelper - 初始化IBus成功： connectionString=host=120.26.126.127:5672;username=admin;password=123456;prefetchcount=1
+2017-09-12 18:36:17,408 [wsz][Thread:16][INFO] JinRi.LogCenter.AppSetting - 初始化配置文件成功
+2017-09-12 18:36:17,433 [wsz][Thread:16][INFO] JinRi.LogCenter.DBLog - 初始化DataBufferPool成功
+2017-09-12 18:36:17,866 [wsz][Thread:20][INFO] JinRi.LogCenter.EasyNetQLogger - Connected to RabbitMQ. Broker: '120.26.126.127', Port: 5672, VHost: '/'
+2017-09-12 18:36:17,871 [wsz][Thread:20][INFO] JinRi.LogCenter.EasyNetQHelper - 初始化IBus成功： connectionString=host=120.26.126.127:5672;username=admin;password=123456;prefetchcount=1
+2017-09-12 18:37:52,849 [wsz][Thread:16][INFO] JinRi.LogCenter.AppSetting - 初始化配置文件成功
+2017-09-12 18:37:52,875 [wsz][Thread:16][INFO] JinRi.LogCenter.DBLog - 初始化DataBufferPool成功
+2017-09-12 18:37:53,295 [wsz][Thread:21][INFO] JinRi.LogCenter.EasyNetQLogger - Connected to RabbitMQ. Broker: '120.26.126.127', Port: 5672, VHost: '/'
+2017-09-12 18:37:53,301 [wsz][Thread:21][INFO] JinRi.LogCenter.EasyNetQHelper - 初始化IBus成功： connectionString=host=120.26.126.127:5672;username=admin;password=123456;prefetchcount=1
